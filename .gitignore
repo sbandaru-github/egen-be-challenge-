@@ -1,3 +1,9 @@
+.classpath
+.project
+mvnw
+mvnw.cmd
+.mvn
+.settings
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
